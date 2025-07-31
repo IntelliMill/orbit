@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: orbit-server
+server:
+  port: 8881
